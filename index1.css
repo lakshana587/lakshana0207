@@ -1,0 +1,29 @@
+.apple{
+    margin-top: 30px;
+    margin-left: 47px;
+}
+body{
+    background-color: rgba(183, 233, 197, 0.867);
+}
+#one{
+    width: 300px;
+    height: 300px;
+}
+.mango{
+    margin-left: 15px;
+    font-size: x-large;
+}
+#two{
+    width: 300px;
+    height: 300px;
+}
+.lemon{
+    margin-left: 30px;
+    font-size: x-large;
+}
+div{
+    position: relative;
+}
+.carrot{
+    margin-left: 400px;
+}
