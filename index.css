@@ -1,0 +1,55 @@
+.path{
+    display: flex;
+    list-style:none;
+}
+.one{
+    margin-left:1100px;
+    margin-top: -40px;
+
+}
+.two{
+    margin-left: 20px;
+    margin-top: -40px;
+}
+.three{
+    margin-left: 20px;
+    margin-top: -40px;
+}
+nav{
+    background-color: rgba(112, 209, 114, 0.795);
+}
+.MUSIC{
+    color: rgb(9, 1, 1);
+    margin-bottom: 4px;
+    padding: 10px;
+    margin-left:10px;
+}
+body{
+    background-color: rgb(214, 240, 214);
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.four{
+    text-align: center;
+    font-size: xx-large;
+}
+.five{
+    text-align: center;
+    font-size:40px ;
+    font-style: oblique;
+}
+.six{
+    text-align: center;
+    font-size:40px ;
+    font-style: calc();
+}
+.seven{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 30px;
+}
+#home{
+    background-color: rgba(69, 203, 118, 0.79);
+}
