@@ -1,0 +1,51 @@
+one{
+    border:solid;
+    border-color: blue;
+    border-radius: 15px;
+    text-align: center;
+    height: 600px;
+    width: 500px;
+    margin:auto;
+    margin-top: 8%;
+    background-color: rgb(230, 194, 230);
+}
+img{
+    margin-top: 5px;
+    width: 490px;
+}
+button{
+    font-size: 30px;
+}
+.one{
+     margin: 50px;
+}
+.two{
+    border:solid;
+    margin-left: 650px;
+    margin-top: 50px;
+    padding: color rgb(116, 200, 246);
+}
+body{
+    background: linear-gradient(to bottom, rgb(207, 169, 175),  rgb(89, 169, 200));
+}
+.two{
+    margin-left:600px;
+    border:solid;
+    border-color:rgb(102, 176, 205) ;
+    
+    
+}
+#two{
+    margin-left: 20px;
+}
+#three{
+    margin-left: 20px;
+}
+.three{
+    border:solid;
+    border-color: white;
+    background-color: rgb(79, 79, 229);
+    height:4px;
+    width: 450px;
+    margin-top: 20px;
+}
